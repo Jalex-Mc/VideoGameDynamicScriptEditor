@@ -1,0 +1,4 @@
+Currently changing frameworks and re-adding features!!
+A Video Game/Story Script editor where you can write scripts in a Dynamic way. In the script, you can add breakpoints, that would automatically add an entry on an outliner, and allow you to branch the story that is being written into a separate but connected script. There are two modes, script and document mode. Document mode is perfect for notes or anything you want to add to the script and you can instantly switch. You can export the script as JSON with all those breakpoints in tact so you can add it to your game engine and dynamically alter text and the story.
+
+!!Currently converting into a Lexical Framework with React for frontend and PostgreSQL/Supabase as the backend!!
